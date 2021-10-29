@@ -48,7 +48,7 @@ public class clase1Test {
         clase1 instance = new clase1();
         int expResult = 0;
         int result = instance.suma(4, 5);
-        assertEquals(19, result);
+        assertEquals(9, result);
         
     }
     
